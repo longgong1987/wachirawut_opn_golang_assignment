@@ -9,8 +9,5 @@ OPN_SECRET_KEY=
 ```
 
 ## Result
-![alt text](https://github.com/longgong1987/wachirawut_opn_golang_assignment/blob/main/images/result1.png?raw=true)
 
-![alt text](https://github.com/longgong1987/wachirawut_opn_golang_assignment/blob/main/images/result2.png?raw=true)
-
-![alt text](https://github.com/longgong1987/wachirawut_opn_golang_assignment/blob/main/images/test_result.png?raw=true)
+<img src="https://github.com/longgong1987/wachirawut_opn_golang_assignment/blob/main/images/result1.png?raw=true" width="128"/>
